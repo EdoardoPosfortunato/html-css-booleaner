@@ -1,11 +1,19 @@
+body{
+    font: Arial, sans-serif;
+}
+
 .intestation{
     height: 170px;
     background-color: rgb(125, 125, 255);
     background-image: url(../img/pattern.png);
 }
 
+.figure{
+    margin:none;
+}
+
 .logo{
-    
+    height: 30%;
 }
     
 .white-blue{
