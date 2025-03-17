@@ -1,0 +1,52 @@
+.intestation{
+    height: 170px;
+    background-color: rgb(125, 125, 255);
+    background-image: url(../img/pattern.png);
+}
+
+.logo{
+    
+}
+    
+.white-blue{
+    color: rgb(91, 165, 226);
+}
+
+.subtitle{
+    color: rgb(178, 178, 182);
+}
+
+h1{
+    font-style: strong;
+    border-width: 10px;
+}
+
+.legend{
+    font-size: small;
+}
+
+.highlighted{
+    background-color: yellow;
+}
+
+th{
+    text-align: left;
+    background-color: rgb(0, 143, 199);
+    color: azure;
+}
+
+.index{
+    width: 20%;
+}
+
+.number{
+    width: 20%;
+}
+
+.description{
+    width: 40%;
+}
+
+.blue-row{
+     background-color: rgb(125, 238, 253);
+}
